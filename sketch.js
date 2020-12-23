@@ -1,6 +1,6 @@
 //Create variables here
  var dog,happyDog, database, foodS, foodStock,dog1
- var FedTime,lastfed,feed,addFood,foodObj
+ var fedTime,lastfed,feed,addFood,foodObj
  function preload(){
   dog1=loadImage("images/dogImg1.png");
   happyDog=loadImage("images/dogImg.png");
